@@ -1,4 +1,4 @@
-import React from 'react'
+﻿import React from 'react'
 import {View,FlatList, Image, Text, TouchableOpacity, Linking } from 'react-native'
 import { Feather} from '@expo/vector-icons'
 import LogoImg from '../../assets/logo.png'
@@ -32,7 +32,7 @@ export default function Detail(){
     }
 
     function sendWhatsApp(){
-        Linking.openURL(`whatsapp://send?phone=5511958568026&text=${msg}`)
+        Linking.openURL(`whatsapp://send?phone=5511900000000&text=${msg}`)
     }
 
     return(
