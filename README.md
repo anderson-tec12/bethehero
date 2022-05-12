@@ -1,7 +1,7 @@
 # Be The Hero
 
 <p>
-  Pequeno projeto desenvolvido para estudo. onde é possivel cdastrar <strong>ongs</strong> e suas causas, dando a possibilidade de outras pessoas entrar em contato com elas e realizar doações 
+  Pequeno projeto desenvolvido para estudo. onde é possivel cadastrar <strong>ongs</strong> e suas causas, dando a possibilidade de outras pessoas entrar em contato com elas e realizar doações 
 </p>
 
 <div>
